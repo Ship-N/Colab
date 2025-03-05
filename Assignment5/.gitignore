@@ -1,0 +1,5 @@
+.idea
+./a5_data/
+./mnist_files/
+main.py
+.ipynb_checkpoints
